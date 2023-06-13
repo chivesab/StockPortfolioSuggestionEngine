@@ -37,8 +37,5 @@ The REST API layer is built in python3 and Flask infrastructure. And front-end w
 - Open web browser and type: http://0.0.0.0/
 
 
-### Credits
-<a href="http://nikitabairagi.com" target="_blank">Nikita Bairagi | nikitabairagi.com</a>, Student at San Jose State University. 
-
 ### License
 MIT
